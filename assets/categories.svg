@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="1200" height="760" fill="#FAF6EF"/>
+  <rect x="24" y="24" width="1152" height="712" fill="none" stroke="#B23A2E" stroke-width="3"/>
+  <line x1="24" y1="86" x2="1176" y2="86" stroke="#B23A2E" stroke-width="2"/>
+  <circle cx="48" cy="55" r="7" fill="#B23A2E"/>
+  <circle cx="72" cy="55" r="7" fill="#1F1B16"/>
+  <circle cx="96" cy="55" r="7" fill="#B23A2E"/>
+  <text x="600" y="63" text-anchor="middle" font-size="24" font-weight="bold" fill="#1F1B16">SELFHOSTED-ZH :: 分类全景 (13 类 / 400+ 软件)</text>
+  <g>
+    <rect x="48" y="120" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="153" y="180" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[02] 云存储</text>
+    <text x="153" y="220" text-anchor="middle" font-size="18" fill="#1F1B16">文件同步 · 网盘</text>
+    <text x="153" y="262" text-anchor="middle" font-size="20" fill="#1F1B16">38 款</text>
+  </g>
+  <g>
+    <rect x="271" y="120" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="376" y="180" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[03] 媒体照片</text>
+    <text x="376" y="220" text-anchor="middle" font-size="18" fill="#1F1B16">影音 · 下载 · 相册</text>
+    <text x="376" y="262" text-anchor="middle" font-size="20" fill="#1F1B16">47 款</text>
+  </g>
+  <g>
+    <rect x="494" y="120" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="599" y="180" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[04] 笔记知识</text>
+    <text x="599" y="220" text-anchor="middle" font-size="18" fill="#1F1B16">笔记 · 团队 Wiki</text>
+    <text x="599" y="262" text-anchor="middle" font-size="20" fill="#1F1B16">29 款</text>
+  </g>
+  <g>
+    <rect x="717" y="120" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="822" y="180" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[05] CMS博客</text>
+    <text x="822" y="220" text-anchor="middle" font-size="18" fill="#1F1B16">建站 · 静态生成</text>
+    <text x="822" y="262" text-anchor="middle" font-size="20" fill="#1F1B16">35 款</text>
+  </g>
+  <g>
+    <rect x="940" y="120" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="1045" y="180" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[06] 监控告警</text>
+    <text x="1045" y="220" text-anchor="middle" font-size="18" fill="#1F1B16">指标 · 日志 · 状态页</text>
+    <text x="1045" y="262" text-anchor="middle" font-size="20" fill="#1F1B16">37 款</text>
+  </g>
+  <g>
+    <rect x="48" y="320" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="153" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[07] 仪表盘</text>
+    <text x="153" y="420" text-anchor="middle" font-size="18" fill="#1F1B16">导航首页 · 管理面板</text>
+    <text x="153" y="462" text-anchor="middle" font-size="20" fill="#1F1B16">26 款</text>
+  </g>
+  <g>
+    <rect x="271" y="320" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="376" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[08] 密码密钥</text>
+    <text x="376" y="420" text-anchor="middle" font-size="18" fill="#1F1B16">密码库 · Secret</text>
+    <text x="376" y="462" text-anchor="middle" font-size="20" fill="#1F1B16">20 款</text>
+  </g>
+  <g>
+    <rect x="494" y="320" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="599" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[09] 邮件</text>
+    <text x="599" y="420" text-anchor="middle" font-size="18" fill="#1F1B16">自建邮箱 · Webmail</text>
+    <text x="599" y="462" text-anchor="middle" font-size="20" fill="#1F1B16">30 款</text>
+  </g>
+  <g>
+    <rect x="717" y="320" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="822" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[10] 聊天通讯</text>
+    <text x="822" y="420" text-anchor="middle" font-size="18" fill="#1F1B16">IM · 会议 · 联邦</text>
+    <text x="822" y="462" text-anchor="middle" font-size="20" fill="#1F1B16">27 款</text>
+  </g>
+  <g>
+    <rect x="940" y="320" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="1045" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[11] 在线协作</text>
+    <text x="1045" y="420" text-anchor="middle" font-size="18" fill="#1F1B16">文档 · 白板 · 看板</text>
+    <text x="1045" y="462" text-anchor="middle" font-size="20" fill="#1F1B16">30 款</text>
+  </g>
+  <g>
+    <rect x="48" y="520" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="153" y="580" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[12] 反代网关</text>
+    <text x="153" y="620" text-anchor="middle" font-size="18" fill="#1F1B16">反代 · SSO · 穿透</text>
+    <text x="153" y="662" text-anchor="middle" font-size="20" fill="#1F1B16">27 款</text>
+  </g>
+  <g>
+    <rect x="271" y="520" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="376" y="580" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[13] 数据库队列</text>
+    <text x="376" y="620" text-anchor="middle" font-size="18" fill="#1F1B16">DB · 缓存 · MQ</text>
+    <text x="376" y="662" text-anchor="middle" font-size="20" fill="#1F1B16">38 款</text>
+  </g>
+  <g>
+    <rect x="494" y="520" width="210" height="180" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="599" y="580" text-anchor="middle" font-size="22" font-weight="bold" fill="#B23A2E">[14] 备份恢复</text>
+    <text x="599" y="620" text-anchor="middle" font-size="18" fill="#1F1B16">增量 · 加密 · 异地</text>
+    <text x="599" y="662" text-anchor="middle" font-size="20" fill="#1F1B16">22 款</text>
+  </g>
+  <text x="820" y="630" text-anchor="middle" font-size="18" fill="#B23A2E">→ 01 入门 · 15 推荐 · 16 迁移对照</text>
+  <text x="820" y="668" text-anchor="middle" font-size="16" fill="#1F1B16">CC BY-SA 3.0 · 衍生自 awesome-selfhosted</text>
+</svg>

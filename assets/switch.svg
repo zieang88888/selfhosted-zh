@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" font-family="Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="1200" height="740" fill="#FAF6EF"/>
+  <rect x="24" y="24" width="1152" height="692" fill="none" stroke="#B23A2E" stroke-width="3"/>
+  <text x="600" y="66" text-anchor="middle" font-size="26" font-weight="bold" fill="#1F1B16">SELFHOSTED-ZH :: 商业服务 → 自托管替代</text>
+  <text x="600" y="96" text-anchor="middle" font-size="15" fill="#B23A2E">把你常用的 SaaS，一个个搬回自己手里</text>
+  <rect x="48" y="120" width="1104" height="46" fill="#B23A2E"/>
+  <text x="250" y="150" text-anchor="middle" font-size="18" font-weight="bold" fill="#FAF6EF">商业 SaaS</text>
+  <text x="600" y="150" text-anchor="middle" font-size="18" font-weight="bold" fill="#FAF6EF">→</text>
+  <text x="950" y="150" text-anchor="middle" font-size="18" font-weight="bold" fill="#FAF6EF">自托管替代</text>
+  <g font-size="17">
+    <rect x="48" y="166" width="1104" height="46" fill="#FFFFFF"/>
+    <text x="250" y="195" text-anchor="middle" fill="#1F1B16">Dropbox / Google Drive</text>
+    <text x="600" y="195" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="195" text-anchor="middle" fill="#1F1B16">Nextcloud / Seafile</text>
+    <rect x="48" y="212" width="1104" height="46" fill="#FAF6EF"/>
+    <text x="250" y="241" text-anchor="middle" fill="#1F1B16">Google Photos / iCloud</text>
+    <text x="600" y="241" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="241" text-anchor="middle" fill="#1F1B16">Immich / PhotoPrism</text>
+    <rect x="48" y="258" width="1104" height="46" fill="#FFFFFF"/>
+    <text x="250" y="287" text-anchor="middle" fill="#1F1B16">Netflix / Plex 媒体库</text>
+    <text x="600" y="287" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="287" text-anchor="middle" fill="#1F1B16">Jellyfin / Emby</text>
+    <rect x="48" y="304" width="1104" height="46" fill="#FAF6EF"/>
+    <text x="250" y="333" text-anchor="middle" fill="#1F1B16">Notion / Evernote</text>
+    <text x="600" y="333" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="333" text-anchor="middle" fill="#1F1B16">AppFlowy / AFFiNE / Joplin</text>
+    <rect x="48" y="350" width="1104" height="46" fill="#FFFFFF"/>
+    <text x="250" y="379" text-anchor="middle" fill="#1F1B16">Trello / Asana</text>
+    <text x="600" y="379" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="379" text-anchor="middle" fill="#1F1B16">Vikunja / Plane / Planka</text>
+    <rect x="48" y="396" width="1104" height="46" fill="#FAF6EF"/>
+    <text x="250" y="425" text-anchor="middle" fill="#1F1B16">Slack / Discord</text>
+    <text x="600" y="425" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="425" text-anchor="middle" fill="#1F1B16">Mattermost / Rocket.Chat</text>
+    <rect x="48" y="442" width="1104" height="46" fill="#FFFFFF"/>
+    <text x="250" y="471" text-anchor="middle" fill="#1F1B16">Zoom / Google Meet</text>
+    <text x="600" y="471" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="471" text-anchor="middle" fill="#1F1B16">Jitsi Meet</text>
+    <rect x="48" y="488" width="1104" height="46" fill="#FAF6EF"/>
+    <text x="250" y="517" text-anchor="middle" fill="#1F1B16">Gmail / Outlook.com</text>
+    <text x="600" y="517" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="517" text-anchor="middle" fill="#1F1B16">Mailcow / Mailu</text>
+    <rect x="48" y="534" width="1104" height="46" fill="#FFFFFF"/>
+    <text x="250" y="563" text-anchor="middle" fill="#1F1B16">1Password / LastPass</text>
+    <text x="600" y="563" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="563" text-anchor="middle" fill="#1F1B16">Vaultwarden</text>
+    <rect x="48" y="580" width="1104" height="46" fill="#FAF6EF"/>
+    <text x="250" y="609" text-anchor="middle" fill="#1F1B16">GitHub.com / GitLab</text>
+    <text x="600" y="609" text-anchor="middle" fill="#B23A2E">→</text>
+    <text x="950" y="609" text-anchor="middle" fill="#1F1B16">Gitea / Forgejo</text>
+  </g>
+  <text x="600" y="668" text-anchor="middle" font-size="15" fill="#B23A2E">完整对照见 selfhosted/16-switch.md</text>
+  <text x="600" y="696" text-anchor="middle" font-size="14" fill="#1F1B16">替代 ≠ 1:1 功能一致，迁移前请先试用</text>
+</svg>
