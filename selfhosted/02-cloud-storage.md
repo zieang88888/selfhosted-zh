@@ -1,0 +1,42 @@
+# 02 · 云存储与文件同步
+
+> 把网盘、文件同步、对象存储从大厂手里拿回来。替代 Dropbox / Google Drive / OneDrive。
+
+- [Nextcloud](https://nextcloud.com) — 自托管网盘与协作套件，含日历、联系人、在线文档，生态最完整（可替代 Google Drive）｜AGPL-3.0
+- [ownCloud](https://owncloud.com) — 企业级私有云文件同步与共享，Nextcloud 的同源前身｜AGPL-3.0 / 商业版
+- [Seafile](https://www.seafile.com) — 高速、轻量的文件同步与团队网盘，性能优于同类｜GPL-2.0
+- [Pydio Cells](https://pydio.com) — 面向企业的现代文件共享与同步平台｜AGPL-3.0
+- [File Browser](https://filebrowser.org) — 轻量 Web 文件管理器，单二进制即可挂载目录浏览上传｜Apache-2.0
+- [Filestash](https://www.filestash.app) — 支持 S3/FTP/WebDAV/GDrive 等多后端的浏览器端文件管理器｜AGPL-3.0
+- [Syncthing](https://syncthing.net) — 设备间 P2P 双向同步，不经过第三方服务器（可替代 Dropbox 同步）｜MPL-2.0
+- [rclone](https://rclone.org) — 命令行云存储同步/挂载工具，支持数十种后端｜MIT
+- [MinIO](https://min.io) — S3 兼容的高性能对象存储，私有云存储底座｜AGPL-3.0
+- [Garage](https://garagehq.deuxfleurs.fr) — 轻量、自托管的 S3 兼容分布式对象存储｜AGPL-3.0
+- [JuiceFS](https://juicefs.com) — 云原生分布式文件系统，元数据与数据分离｜Apache-2.0
+- [SeaweedFS](https://github.com/seaweedfs/seaweedfs) — 为海量小文件设计的分布式文件系统｜Apache-2.0
+- [Ceph](https://ceph.io) — 成熟的开源分布式存储（块/对象/文件），企业级规模｜LGPL-2.1
+- [Longhorn](https://longhorn.io) — Kubernetes 云原生分布式块存储｜Apache-2.0
+- [IPFS](https://ipfs.tech) — 内容寻址的点对点分布式文件网络｜MIT
+- [Alist](https://alist.nn.ci) — 支持聚合多种网盘/存储的列表与 WebDAV 程序，国内很流行｜AGPL-3.0
+- [Cloudreve](https://cloudreve.org) — 支持多存储策略的开源网盘系统，带会员/交易体系｜GPL-3.0
+- [FileRun](https://www.filerun.com) — 简洁高效的私有文件共享与管理 Web 面板｜免费/商业授权
+- [FileGator](https://filegator.io) — PHP 写的轻量多用户文件管理器｜MIT
+- [Cozy Cloud](https://cozy.io) — 法国团队做的个人云自动化平台｜MIT
+- [Alfresco](https://www.alfresco.com) — 企业级内容管理（ECM）与文档管理平台｜LGPL / 商业版
+- [SparkleShare](https://www.sparkleshare.org) — 基于 Git 的版本化文件同步，适合文档协作｜GPL-3.0
+- [git-annex](https://git-annex.branchable.com) — 用 Git 管理大文件的文件同步工具｜AGPL-3.0
+- [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) — 跨平台双向文件同步工具｜GPL
+- [FreeFileSync](https://freefilesync.org) — 桌面端文件夹比对与同步工具｜GPL-3.0
+- [rsync](https://rsync.samba.org) — 经典增量文件传输/同步命令行工具｜GPL
+- [SabreDAV](https://sabre.io) — PHP 实现的 WebDAV/CalDAV/CardDAV 服务器套件｜BSD-3-Clause
+- [Xbackbone](https://github.com/erebe/xbackbone) — 自托管临时文件分享与短链服务｜AGPL-3.0
+- [Sharry](https://github.com/eikek/sharry) — 带配额/过期的文件收发分享服务｜Apache-2.0
+- [PrivateBin](https://privatebin.info) — 服务器零知识的加密粘贴板（可替代 Pastebin）｜Zlib
+- [Linx](https://github.com/andreimarcu/linx-server) — 简单快速的自托管文件分享与短链服务器｜GPL-3.0
+- [OnionShare](https://onionshare.org) — 借助 Tor 匿名、安全地分享文件｜GPL-3.0
+- [Jirafeau](https://gitlab.com/jirafeau/jirafeau) — 临时文件托管与分享，类似临时网盘｜AGPL-3.0
+- [Lufi](https://framagit.org/luc/lufi) — 追踪无关的临时文件上传分享（Frama 出品）｜AGPL-3.0
+- [PairDrop](https://pairdrop.net) — 浏览器端局域网秒传，Snapdrop 的活跃继任｜GPL-3.0
+- [LocalSend](https://localsend.org) — 跨平台局域网文件互传，无需联网（可替代 AirDrop）｜MIT
+- [Magic Wormhole](https://magic-wormhole.readthedocs.io) — 端到端加密的"码即传输"命令行文件投递｜MIT
+- [croc](https://github.com/schollz/croc) — 命令行两端加密跨机传文件，简单快速｜MIT
