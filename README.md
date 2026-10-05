@@ -17,6 +17,8 @@
 
 ---
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## ✨ 为什么要自托管
 
 - 🔒 **数据归你**：照片、文档、密码、聊天不再锁在大厂云里；
@@ -88,3 +90,17 @@
 **如果这个清单帮到了你，欢迎 ⭐ Star 支持一下，让更多人把数据拿回自己手里。**
 
 </div>
+
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
